@@ -239,7 +239,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - Color_327CE41B: {r: 33.89676, g: 4.0818086, b: 29.28254, a: 0}
+    - Color_327CE41B: {r: 2.0409043, g: 16.94838, b: 12.511631, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
